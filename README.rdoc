@@ -1,0 +1,13 @@
+== Installing these settings
+
+I highly recommend you fork this so my constant tweaks don't mess up your config.
+
+Once you have your repo setup do the following
+
+  cd cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages
+
+If you already have a User directory here you should move or rename it.
+
+  git clone URL-of-your-repo User
+
+Quit and restart Sublime Text 2

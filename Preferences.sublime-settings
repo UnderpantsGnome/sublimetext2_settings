@@ -11,5 +11,5 @@
   	"ensure_newline_at_eof_on_save": true,
     "find_selected_text": true,
     "folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache"],
-    "spell_check": true,
+    "spell_check": true
   }
