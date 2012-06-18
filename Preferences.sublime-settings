@@ -1,5 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
-	"font_size": 14.0,
-	"theme": "Soda Dark.sublime-theme"
-}
+	"highlight_line": true,
+    "match_brackets": true,
+    "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+	  "font_size": 14.0,
+  	"theme": "Soda Dark.sublime-theme",
+  	"tab_size": 2,
+  	"translate_tabs_to_spaces": true,
+  	"trim_trailing_white_space_on_save": true,
+  	"draw_indent_guides": true,
+  	"ensure_newline_at_eof_on_save": true,
+    "find_selected_text": true
+  }

@@ -1,9 +1,16 @@
 {
-	"auto_upgrade_last_run": 1339860946,
+	"auto_upgrade_last_run": 1340038330,
 	"installed_packages":
 	[
 		"ChangeQuotes",
 		"CoffeeScript",
-		"Git"
+		"ERB Insert and Toggle Commands",
+		"Git",
+		"Haml",
+		"Package Control",
+		"Rake",
+		"rbenv",
+		"RubyTest",
+		"Sass"
 	]
 }
