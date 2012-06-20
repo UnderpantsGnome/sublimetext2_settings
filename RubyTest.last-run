@@ -1,4 +1,0 @@
-{
-	"last_test_file": "accounts.feature",
-	"last_test_run": "cd /Users/mmoen/code/pnb/trackinator && /Users/mmoen/.rbenv/shims/bundle exec cucumber -f pretty features/accounts.feature -l 11"
-}
