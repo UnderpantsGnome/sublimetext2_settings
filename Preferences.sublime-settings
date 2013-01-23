@@ -1,9 +1,26 @@
 {
-  // Valid values are "smooth", "phase", "blink", "wide" and "solid".
-  "caret_style": "smooth",
-  "open_files_in_new_window": true,
+	"binary_file_patterns":
+	[
+		"*.log",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip",
+		"*.sublime-project",
+		"*.sublime-workspace"
+	],
+	"caret_style": "smooth",
 	"color_scheme": "Packages/My Blackboard.tmTheme",
-  "create_window_at_startup": false,
+	"create_window_at_startup": false,
 	"draw_indent_guides": true,
 	"ensure_newline_at_eof_on_save": true,
 	"find_selected_text": true,
@@ -17,35 +34,24 @@
 		".bundle",
 		".gitkeep"
 	],
-	"font_size": 15.0,
-	"font_options": [
+	"font_face": "Source Code Pro",
+	"font_options":
+	[
 		"subpixel_antialias"
 	],
+	"font_size": 15.0,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"match_brackets": true,
+	"open_files_in_new_window": true,
 	"spell_check": false,
 	"tab_size": 2,
-  "use_tab_stops": true,
 	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": "auto",
-  "binary_file_patterns": [
-  	"*.log",
-  	"*.jpg",
-  	"*.jpeg",
-  	"*.png",
-  	"*.gif",
-  	"*.ttf",
-  	"*.tga",
-  	"*.dds",
-  	"*.ico",
-  	"*.eot",
-  	"*.pdf",
-  	"*.swf",
-  	"*.jar",
-  	"*.zip",
-    "*.sublime-project",
-    "*.sublime-workspace"
-  ]
+	"use_tab_stops": true,
+	"word_wrap": "auto"
 }

@@ -1,16 +1,20 @@
 {
-	"auto_upgrade_last_run": 1341849460,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
+		"BeautifyRuby",
 		"ChangeQuotes",
 		"CoffeeScript",
 		"ERB Insert and Toggle Commands",
 		"Git",
 		"Haml",
+		"Markdown Preview",
 		"Package Control",
 		"Rake",
 		"rbenv",
+		"Ruby 1.9 Hash Converter",
 		"RubyTest",
-		"Sass"
+		"Sass",
+		"ToggleQuotes"
 	]
 }
