@@ -5,16 +5,21 @@
 		"BeautifyRuby",
 		"ChangeQuotes",
 		"CoffeeScript",
+		"DetectSyntax",
 		"ERB Insert and Toggle Commands",
 		"Git",
+		"GitGutter",
+		"Github Tools",
 		"Haml",
 		"Markdown Preview",
 		"Package Control",
+		"Rails Partial",
 		"Rake",
 		"rbenv",
 		"Ruby 1.9 Hash Converter",
 		"RubyTest",
 		"Sass",
+		"SearchInProject",
 		"ToggleQuotes"
 	]
 }
