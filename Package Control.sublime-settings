@@ -1,26 +1,38 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"BeautifyRuby",
+		"CanISwitchToSublimeText3",
 		"ChangeQuotes",
 		"CoffeeScript",
 		"DetectSyntax",
-		"ERB Insert and Toggle Commands",
+		"Floobits",
 		"Git",
 		"GitGutter",
-		"Github Tools",
+		"GitHub Flavored Markdown Preview",
+		"GitHubinator",
 		"Haml",
+		"Indent XML",
 		"Markdown Preview",
 		"Package Control",
 		"Rails Partial",
 		"Rake",
 		"rbenv",
 		"Ruby Hash Converter",
+		"Ruby Slim",
 		"RubyTest",
 		"Sass",
-		"SearchInProject",
+		"Search in Project",
+		"Solarized Color Scheme",
 		"sublime-github",
-		"ToggleQuotes"
+		"SublimeERB",
+		"Theme - Sodarized",
+		"Theme - Spacegray",
+		"ToggleQuotes",
+		"VCS Gutter"
 	]
 }
